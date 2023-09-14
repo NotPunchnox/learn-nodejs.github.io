@@ -1,0 +1,16 @@
+### 2. Installation de Node.js
+   - **Compatibilité des plateformes** : Node.js est compatible avec Windows, macOS et Linux. Vous pouvez le télécharger et l'installer sur la plateforme de votre choix.
+   - **Installation sur Windows** :
+     - Rendez-vous sur [le site de Node.js](https://nodejs.org/).
+     - Téléchargez la version LTS (recommandée) pour Windows.
+     - Lancez l'installeur et suivez les étapes d'installation.
+     - Vérification de l'installation : Ouvrez un terminal et tapez `node -v` pour vérifier que Node.js est correctement installé. Répétez la même étape avec `npm -v` pour vérifier npm (Node Package Manager).
+   - **Installation sur Linux**:
+     - Rendez-vous sur [le site de Node.js](https://nodejs.org/).
+     - Téléchargez la version LTS (recommandée) pour Linux.
+     - Décompressez le fichier téléchargé.
+     - Ouvrez un terminal et accédez au répertoire où vous avez décompressé le fichier.
+     - Exécutez la commande `./configure`.
+     - Exécutez la commande `make`.
+     - Exécutez la commande `sudo make install`.
+     - Vérification de l'installation : Ouvrez un terminal et tapez `node -v` pour vérifier que Node.js est correctement installé. Répétez la même étape avec `npm -v` pour vérifier npm (Node Package Manager).
