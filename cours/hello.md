@@ -4,7 +4,7 @@
 Dans cette sorte de leçon je vais vous montrer comment écrire et exécuter un script Node.js simple.
 
 ## Écrire un script Node.js
-/!\ **Pour écrire un script Node.js, il faudra que vous utilisez une éditeur de texte comme [Visual Studio Code](https://code.visualstudio.com/) ou [Atom](https://atom.io/).**
+/!\ **Pour écrire un script Node.js, il faudrait que vous utilisez un éditeur de texte comme [Visual Studio Code](https://code.visualstudio.com/) ou [Atom](https://atom.io/).**
 
 - Une fois l'éditeur de texte installé, ouvrez un dossier souvent la combinaison de touche est `Ctrl + O` ou `Cmd + O` et sélectionnez le dossier dans lequel vous voulez créer votre premier script.
 
