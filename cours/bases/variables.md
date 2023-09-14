@@ -85,3 +85,5 @@ En JavaScript, il existe plusieurs types de données, les plus courants sont les
   const regex = /punchnox/
   //regex représente "punchnox", c'est à dire que si veut chercher le mot "punchnox" dans une chaine de caractères on peut utiliser la variable regex. ( on le verra plus tard dans les leçons aussi )
   ```
+
+Cours suivant : [Les opérateurs en JavaScript.](./operateurs.md)
