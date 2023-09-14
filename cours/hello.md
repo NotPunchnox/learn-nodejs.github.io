@@ -29,4 +29,4 @@ le terminale devrait vous afficher le message suivant :
 Et voilà vous avez écrit votre premier script Node.js !
 
 
-Si vous voulez continuer à apprendre je vous propose d'aller à la leçon suivante : [Les variables et les types de données en JavaScript.](../bases/variables.md)
+Si vous voulez continuer à apprendre je vous propose d'aller à la leçon suivante : [Les variables et les types de données en JavaScript.](../cours/bases/variables.md)
