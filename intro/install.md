@@ -18,6 +18,7 @@ Pour installer Node.js sur Windows, suivez ces étapes :
 Pour installer Node.js sur Linux, suivez ces étapes :
 
 1. Rendez-vous sur [le site de Node.js](https://nodejs.org/fr/download).
+   ![nodejs](../screens/download.png)
 2. Téléchargez la version LTS (recommandée) pour Linux.
 3. Décompressez le fichier téléchargé.
 4. Ouvrez un terminal et accédez au répertoire où vous avez décompressé le fichier.
@@ -68,4 +69,4 @@ Commandes `nvm` pour installer et changer la version de Node.js:
 
 #### Et voià ! Après ces instructions vous devriez avoir Node.js d'installé sur votre machine.
 
-Vous pouvez passer à la leçon suivante en cliquant sur le lien suivant: [Écrire et exécuter un script Node.js simple.](./hello.md)
+Vous pouvez passer à la leçon suivante en cliquant sur le lien suivant: [Écrire et exécuter un script Node.js simple.](../cours/hello.md)
