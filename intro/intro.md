@@ -13,4 +13,4 @@ Node.js est un environnement d'exécution Javascript open source, c'est à dire 
 
 [Installer Node.js](./install.md)
 
-[Écrire et exécuter un script Node.js simple.](./hello.md)
+[Écrire et exécuter un script Node.js simple.](../cours/hello.md)
