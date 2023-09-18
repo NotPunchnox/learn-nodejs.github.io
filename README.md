@@ -68,6 +68,11 @@ Après avoir compris les concepts de cette leçon, vous pouvez essayer les exerc
    - **Pourquoi je fais ce projet ?**
    L'idée de ce projet m'est venue car j'aime bien partager mes connaissances et permettre à n'importe qui de coder ce qu'il veut. ( et pour présenter une petite partie de mes connaissances à de potentielles écoles d'informatique )
 
+## Tests
+   J'ai intégré une console de développement pour que vous puisiez essayer vos scripts sur n'importe qu'elle platforme.
+
+   Exemple de la console de développement:
+   
 
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
