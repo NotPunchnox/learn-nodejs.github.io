@@ -11,6 +11,10 @@ Le Node.js est simple à apprendre et à utiliser, il est assez intéressant pou
 
 Node.js est un environnement d'exécution Javascript open source, c'est à dire que Node.js est un programme qui permet d'exécuter du code Javascript en dehors du navigateur web.
 
+## Informations complémentaires
+Je vais souvent parler de JavaScript dans mes cours, car vous avez besoin d'avoir les bases du JavaScript pour utiliser la technologie Node.js ( pour faire bref c'est tout à fait normal si vous voyez par moment du JavaScript dans mes cours ).
+
+
 [Installer Node.js](./install.md)
 
 [Écrire et exécuter un script Node.js simple.](../cours/hello.md)

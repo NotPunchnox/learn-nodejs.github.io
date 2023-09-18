@@ -178,3 +178,6 @@ Les opérateurs logiques permettent de combiner plusieurs conditions.
     nombre **= 2
     //nombre représente 4
 ```
+
+
+Cours suivant : [Les Fonctions en JavaScript.](./fonctions.md)
