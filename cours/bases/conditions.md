@@ -69,8 +69,24 @@ var nombre2 = 2
 var text = "hello"
 var text2 = "world"
 
+if(nombre === 1)return console.log("nombre est égale à 1")
+if(nombre !== 1) return console.log("nombre n'est pas égale à 1")
 if(nombre !== nombre2) return console.log("nombre n'est pas égale à nombre2")
 if(text == text2) return console.log("Le text est égale à text2")
+
+
+if(nombre > nombre2) return console.log("nombre est supérieur à nombre2")
+if(nombre < nombre2) return console.log("nombre est inférieur à nombre2")
+if(nombre >= nombre2) return console.log("nombre est supérieur ou égale à nombre2")
+if(nombre <= nombre2) return console.log("nombre est inférieur ou égale à nombre2")
+
+
+if(nombre == 1 && nombre2 == 2) return console.log("nombre est égale à 1 et nombre2 est égale à 2")
+if(nombre == 1 || nombre2 == 2) return console.log("nombre est égale à 1 ou nombre2 est égale à 2")
+
+if(nombre !== 1 && nombre2 !== 2) return console.log("nombre n'est pas égale à 1 et nombre2 n'est pas égale à 2")
+if(nombre !== 1 || nombre2 !== 2) return console.log("nombre n'est pas égale à 1 ou nombre2 n'est pas égale à 2")
+if(nombre == 1 && nombre2 !== 2) return console.log("nombre est égale à 1 et nombre2 n'est pas égale à 2")
 
 ```
 
