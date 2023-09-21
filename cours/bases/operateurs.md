@@ -139,7 +139,7 @@ Les opérateurs logiques permettent de combiner plusieurs conditions.
     //Si `bool` n'est pas positif alors le résultat sera négatif.
 ```
 
-***Cours suivant : [Les fonctions en JavaScript.](./fonctions.md)***
+***Cours suivant : [Les conditions en JavaScript.](./conditions.md)***
 
 /!\ **Les opérateurs ci dessous sont moins fréquents mais ça peut être intéressant à savoir, cependant si vous débutez vous n'avez pas besoin de les connaitre.**
 
@@ -180,4 +180,4 @@ Les opérateurs logiques permettent de combiner plusieurs conditions.
 ```
 
 
-Cours suivant : [Les Fonctions en JavaScript.](./fonctions.md)
+Cours suivant : [Les conditions](./conditions.md)

@@ -1,6 +1,6 @@
 # Les conditions
 
-## Object
+## Objectif
 Dans cette leçon vous allez apprendre à utiliser les conditions en JavaScript pour pouvoir les réutiliser en Node.js
 
 ## Les conditions
@@ -90,4 +90,4 @@ if(nombre == 1 && nombre2 !== 2) return console.log("nombre est égale à 1 et n
 
 ```
 
-Cours suivant: [Les boucles](./boucles.md)
+Cours suivant: [Les Tableaux](./tableaux.md)
