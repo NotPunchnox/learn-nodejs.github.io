@@ -24,6 +24,12 @@ function addition(a, b) {
 
 Vous pouvez ensuite utiliser ( on dit appeler lorsqu'on utilise une fonction ), de cette façon:
 ```js
-const résultat = addition(1, 2)
+function addition(a, b) {//on définie la fonction
+    let resultat = a + b;//on donne des instructions à effectuer, dans cette exemple un calcul
+    return resultat;//et on return le résultat
+}
+
+
+const résultat = addition(1, 2)//On appel la fonction addition avec en argument 1 puis 2
 console.log(résultat)//affiche: 3
 ```

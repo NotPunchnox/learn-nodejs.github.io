@@ -42,6 +42,10 @@ Le but premier de ce petit projet est que vous puissiez coder ce que vous voulez
    #### 3.4. Les API
    - [Utiliser le module `axios` pour intéragir avec une API externe.](./axios.md)
 
+## Exemples
+Dans la partie exemple pour pourrez regarder des scripts fonctionnels 
+
+
 ## Exercices
 Après avoir compris les concepts de cette leçon, vous pouvez essayer les exercices suivants :
 - Exercice 1 : Intéragir avec une base de données MongoDB.
