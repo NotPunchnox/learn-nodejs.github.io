@@ -65,6 +65,13 @@ Voici un aperçu des informations principales :
 
 ![Informations sur la requête](../../screens/insomnia/global-info.png)
 
+### Étape 3 : Génération du code de la requête
+
+Insomnia vous permet de générer un exemple de code pour la requête que vous testez. Cela vous aide à visualiser comment écrire cette requête dans différents langages de programmation.
+
+![Image](../../screens/insomnia/generate.PNG)
+![Image](../../screens/insomnia/choose-lang.PNG)
+
 ---
 
 ## Résumé
@@ -73,5 +80,6 @@ Avec Insomnia, vous pouvez :
 - Tester vos endpoints API (GET, POST, PUT, DELETE).
 - Créer et organiser des collections pour regrouper vos requêtes.
 - Vérifier rapidement les résultats et les réponses des API.
+- Générer le code de la requête dans le langage que vous souhaitez.
 
 Si vous n’avez pas encore d’API à tester, reportez-vous au cours précédent : [Créer une API REST avec Express](../../cours/api/express.md).
