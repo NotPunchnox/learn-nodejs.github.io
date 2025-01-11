@@ -33,13 +33,13 @@ Le but premier de ce petit projet est que vous puissiez coder ce que vous voulez
    #### 3.2. Les modules
    - [Un module c'est quoi ?](./intro/module.md)
    - [Utiliser le module `fs` pour lire et écrire des fichiers.](./fs.md)
-   - [Utiliser le module `express` pour créer un serveur HTTP.](./http.md)
 
    #### 3.3. Les bases de données
    - [Utiliser le module `mongoose` pour intéragir avec une base de données MongoDB.](./mongoose.md)
    - [Utiliser le module `mysql` pour intéragir avec une base de données MySQL.](./mysql.md)
    
    #### 3.4. Les API
+   - [Utiliser le module `express` pour créer un serveur HTTP.](./cours/api/express.md)
    - [Utiliser le module `axios` pour intéragir avec une API externe.](./axios.md)
 
 ## Exemples
