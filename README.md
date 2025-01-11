@@ -33,7 +33,7 @@ Le but premier de ce petit projet est que vous puissiez coder ce que vous voulez
    #### 3.2. Les modules
    - [Un module c'est quoi ?](./intro/module.md)
    - [Utiliser le module `fs` pour lire et écrire des fichiers.](./fs.md)
-   - [Utiliser le module `http` et `express` pour créer un serveur HTTP.](./http.md)
+   - [Utiliser le module `express` pour créer un serveur HTTP.](./http.md)
 
    #### 3.3. Les bases de données
    - [Utiliser le module `mongoose` pour intéragir avec une base de données MongoDB.](./mongoose.md)
@@ -43,7 +43,9 @@ Le but premier de ce petit projet est que vous puissiez coder ce que vous voulez
    - [Utiliser le module `axios` pour intéragir avec une API externe.](./axios.md)
 
 ## Exemples
-Dans la partie exemple pour pourrez regarder des scripts fonctionnels 
+Dans la partie exemple pour pourrez regarder avoir des exemples de scripts fonctionnels, basique ou plus complexe tout ça expliqué à chaque ligne
+- [Dossier](./examples/)
+- [Fonctions](./examples/bases/fonctions.js)
 
 
 ## Exercices
