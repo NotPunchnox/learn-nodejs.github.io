@@ -1,7 +1,7 @@
 # Introduction à Express
 
 ## Objectif
-Dans cette leçon, vous allez apprendre à utiliser Express, un framework minimaliste pour créer des serveurs web avec Node.js.
+Dans ce mini tutoriel, vous allez apprendre à utiliser Express, un framework minimaliste pour créer des serveurs web avec Node.js.
 
 ## Express
 **Express est une bibliothèque qui facilite la création d'applications web et d'API.**  
@@ -97,4 +97,4 @@ En plaçant vos fichiers dans un dossier `public`, ils seront accessibles direct
 
 **Essayez d’ajouter des routes et d’intercepter des requêtes avec des middlewares !**
 
-Cours suivant : [Les Bases des API REST](./api-rest.md)
+Cours suivant : [Comment Tester et utiliser une API](../../examples/api/insomnia.md)
