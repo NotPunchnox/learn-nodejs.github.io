@@ -35,7 +35,7 @@ Le but premier de ce petit projet est que vous puissiez coder ce que vous voulez
    - [Utiliser le module `fs` pour lire et écrire des fichiers.](./fs.md)
 
    #### 3.3. Les bases de données
-   - [Utiliser le module `mongoose` pour intéragir avec une base de données MongoDB.](./mongoose.md)
+   - [Utiliser le module `mongoose` pour intéragir avec une base de données MongoDB.](./cours/databases/mongoose.md)
    - [Utiliser le module `mysql` pour intéragir avec une base de données MySQL.](./mysql.md)
    
    #### 3.4. Les API
